@@ -46,6 +46,19 @@ function calculateCurrency(){
         //USE THE TABLE PROVIDED FOR VALUES!!!
         var AUD = 1.40885; //exchange rate for Austrialian Dollar
         var AWG = 1.78511;
+        var BSD = 1.00000;
+        var XBT = 0.00015;
+        var GBP = 0.76826;
+        var CAD = 1.30976;
+        var CLP = 683.205;
+        var CNY = 6.93780;
+        var CUP = 25.0000;
+        var DKK = 6.49079;
+        var EUR = 0.87007;
+        var EGP = 17.8726;
+        var HKD = 7.83955;
+        var IRR = 42000;
+        var NGN = 361.969;
 
          
          
@@ -79,7 +92,23 @@ function calculateCurrency(){
          
          //Calculate the exchange rate and set the country prefix using a selection statement
 
-
+       if( exchangeRate = usdAmount * AUD;  countryName = "AUD";)
+       if( exchangeRate = usdAmount * AWG;  countryName = "AWG";)
+        exchangeRate = usdAmount * BSD;  countryName = "BSD";
+        exchangeRate = usdAmount * XBT;  countryName = "XBT";
+        exchangeRate = usdAmount * GBP;  countryName = "GBP";
+        exchangeRate = usdAmount * CAD;  countryName = "CAD";
+        exchangeRate = usdAmount * CLP;  countryName = "CLP";
+        exchangeRate = usdAmount * CNY;  countryName = "CNY";
+        exchangeRate = usdAmount * CUP;  countryName = "CUP";
+        exchangeRate = usdAmount * DKK;  countryName = "DKK";
+        exchangeRate = usdAmount * EUR;  countryName = "EUR";
+        exchangeRate = usdAmount * EGP;  countryName = "EGP";
+        exchangeRate = usdAmount * HKD;  countryName = "HKD";
+        exchangeRate = usdAmount * IRR;  countryName = "IRR";
+        exchangeRate = usdAmount * NGN;  countryName = "NGN";
+       
+       
 
 
 
